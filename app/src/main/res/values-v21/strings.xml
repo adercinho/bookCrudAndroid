@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register_your_book_here">Register your Book here!</string>
+    <string name="search">Search</string>
+    <string name="search_by_name_book">Search by Name Book</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome!</string>
+    <string name="configuration">Configuration</string>
+    <string name="author">Author</string>
+    <string name="isbn">ISBN</string>
+    <string name="editora">Editora</string>
+</resources>
